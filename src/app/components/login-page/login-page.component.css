@@ -1,0 +1,54 @@
+mat-card {
+    max-width: 400px;
+    margin: 12em auto;
+    text-align: center;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    background-color: #ffffff;
+  }
+  
+  
+  mat-form-field {
+    width: 100%;
+    margin-bottom: 20px; 
+  }
+  
+  
+  input.mat-input {
+    border-radius: 4px;
+    border: 1px solid #cccccc;
+    padding: 10px;
+    font-size: 16px;
+  }
+  
+  mat-error {
+    color: red;
+    font-size: 14px;
+    margin-top: 5px;
+  }
+  
+  button.mat-raised-button {
+    width: 100%;
+    padding: 12px;
+    background-color: #007bff; 
+    color: #ffffff; 
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  button.mat-raised-button:hover {
+    background-color: #0056b3; 
+  }
+  
+  
+  footer {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 14px;
+    color: #555555;
+  }
+  
